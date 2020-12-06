@@ -2,6 +2,7 @@
 using Avalonia;
 using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.ReactiveUI;
+using Avalonia.Logging.Serilog;
 
 namespace AvaloniaAppTemplate
 {
